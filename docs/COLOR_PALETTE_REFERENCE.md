@@ -51,6 +51,8 @@ While Flutter generates these automatically, here's what you can expect:
 
 ## Actual Usage in This Project
 
+The following examples reference the current project structure (as of November 2025):
+
 ### File: `lib/main.dart`
 ```dart
 MaterialApp(
@@ -78,6 +80,8 @@ MaterialApp(
 
 5. **Special Elements**:
    - Star icon: `Colors.amber` (hardcoded, not from color scheme)
+
+Note: File paths may change as the project evolves. These references are accurate as of the time of writing.
 
 ## Important Notes
 
@@ -123,6 +127,10 @@ After copying the color scheme to a new project:
 
 ## Additional Resources
 
-- [Material Design 3 Color System](https://m3.material.io/styles/color/overview)
-- [Flutter ColorScheme Documentation](https://api.flutter.dev/flutter/material/ColorScheme-class.html)
+The following resources were verified as of November 2025:
+
+- [Material Design 3 Color System](https://m3.material.io/styles/color/overview) - Official Material Design 3 color documentation
+- [Flutter ColorScheme Documentation](https://api.flutter.dev/flutter/material/ColorScheme-class.html) - Flutter API reference
 - [Material Theme Builder](https://m3.material.io/theme-builder) - Visual tool to preview your seed color
+
+Note: External links may change over time. If a link is broken, search for the resource by name on the official Material Design or Flutter websites.

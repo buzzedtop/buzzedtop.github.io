@@ -125,3 +125,5 @@ MaterialApp(
 **The only essential information you need is: `Color(0xFF1E88E5)`**
 
 Everything else is generated automatically by Flutter's Material Design 3 color system through `ColorScheme.fromSeed()`.
+
+Note: This documentation uses the Dart color format `Color(0xFF1E88E5)` throughout. The hex color value is `#1E88E5`, which in Dart is represented as `0xFF1E88E5` (the `0xFF` prefix indicates full opacity).
